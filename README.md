@@ -29,3 +29,5 @@ ENUM('revisao', 'conserto')
 **Ordem_Servico**\
 status:
 ENUM('Aberta', 'Em Execução', 'Concluída')
+
+![Diagrama](https://github.com/patrickfgod/prjModeloOficina_DIO_DER/raw/main/Desafio%20DIO_DER%2002.png)
